@@ -5,7 +5,7 @@ Inspired by the classic "Simon Says" game, this project challenges players to re
 
 ## 🚀 Demo
 
-Click here to play:
+Click here to play:https://cosmic-tapioca-16eebc.netlify.app/
 
 ---
 
